@@ -1,6 +1,6 @@
 {
-  "name": "strict-event-emitter-types",
-  "version": "2.0.0",
+  "name": "@dannyfranca/strict-event-emitter-types",
+  "version": "2.0.1",
   "description": "[Fork from strict-event-emitter-types] Strictly and safely type any EventEmitter-like interface on any object",
   "main": "dist/src/index.js",
   "scripts": {
